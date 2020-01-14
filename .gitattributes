@@ -1,1 +1,3 @@
 *.v linguist-language=verilog
+*.html linguist-language=verilog
+*.xml linguist-language=verilog
