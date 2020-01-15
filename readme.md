@@ -7,4 +7,4 @@ Several Implementations of mips cpu written in verilog. And it can be run on xil
 + 5b: single cycle cpu
 + 8： multi-cycle cpu
 + 9b: pipeline cpu
-+ 10c: int-pipeline cpu
++ 10c: pipeline cpu with Interruption
